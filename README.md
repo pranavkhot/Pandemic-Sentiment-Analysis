@@ -1,5 +1,8 @@
 # 📊 Sentiment Analysis on COVID-19 Tweets Using Machine Learning
 
+<img width="732" alt="Screenshot 2024-11-07 at 8 57 42 PM" src="https://github.com/user-attachments/assets/c197d304-1861-4852-82c2-a907dcf9b1e4">
+
+
 This project analyzes public sentiment on Twitter regarding COVID-19 using machine learning models. It classifies tweets into **Positive**, **Negative**, or **Neutral** sentiments, employing models like **BERT** . The project includes data loading, preprocessing, exploratory data analysis (EDA), and sentiment prediction through a graphical interface.
 
 ## 📜 Table of Contents
