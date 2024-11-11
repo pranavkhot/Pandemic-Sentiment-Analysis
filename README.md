@@ -3,13 +3,13 @@
 This project analyzes public sentiment on Twitter regarding COVID-19 using machine learning models. It classifies tweets into **Positive**, **Negative**, or **Neutral** sentiments, employing models like **BERT** . The project includes data loading, preprocessing, exploratory data analysis (EDA), and sentiment prediction through a graphical interface.
 
 ## 📜 Table of Contents
-- [📁 Project Structure](#project-structure)
-- [🚀 Usage](#usage)
-- [🧹 Data Preprocessing](#data-preprocessing)
-- [📊 Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [🤖 Model Training](#model-training)
-- [🖥️ Real-Time Sentiment Analysis UI](#real-time-sentiment-analysis-ui)
-- [🛠️ Technologies Used](#-technologies-used)
+- [📁 Project Structure]
+- [🚀 Usage]
+- [🧹 Data Preprocessing]
+- [📊 Exploratory Data Analysis (EDA)]
+- [🤖 Model Training]
+- [🖥️ Real-Time Sentiment Analysis UI]
+- [🛠️ Technologies Used]
 
 
 
